@@ -1,0 +1,54 @@
+#menu{
+    height: 50px;
+    background-color: gray;
+}
+#menu ul{
+    text-decoration: none;
+    list-style: none;
+    line-height: 50px;
+    background-color: gray;
+}
+header{
+    background-color: aquamarine;
+
+}
+
+.item{
+    height: 150px;
+}
+
+footer{
+    height: 50px;
+    line-height: 50px;
+}
+.lateral{
+    height: 450px;
+}
+
+.lateral > div{
+    height: calc(250px / 3);
+}
+
+#products{
+    margin-bottom: 100px;
+}
+#articulos {
+    margin-top: 50px;
+}
+#pie{
+    background-color: aquamarine;
+}
+
+#historia{
+    background-color: lightsteelblue;
+}
+
+#estilos{
+    background-color: lightsteelblue;
+}
+#redes{
+    background-color: lightsteelblue;
+}
+#scooter{
+    background-color: lightsteelblue;
+}
